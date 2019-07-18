@@ -6,7 +6,7 @@ Vue.use(Router)
 
 export default new Router({
   mode: 'history',
-  base: '/vue-horizontally-slider',
+  base: 'vue-horizontally-slider/',
   mode: 'history',
   routes: [
     {
